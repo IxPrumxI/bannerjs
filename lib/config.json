@@ -11,8 +11,8 @@
         }
     },
     "schools": {
-        "temple": {
-            "host": "prd-xereg.temple.edu",
+        "seu": {
+            "host": "bannservices.seu.edu.sa",
             "methods": [
                 "get_subject",
                 "get_instructor",
